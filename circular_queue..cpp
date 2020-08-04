@@ -1,6 +1,11 @@
 #include <iostream>
 using namespace std;
 
+//There is a mal change made here to check to upload in gitfiles.
+class gitHub{
+	int a,b;
+}g;
+
 template <class t>
 class queue
 {
